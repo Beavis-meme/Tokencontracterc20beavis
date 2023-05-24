@@ -1,0 +1,2 @@
+# Tokencontracterc20beavis
+Contract erc20 ethereum Beavis 0x3c5b8E2745ac73548a14d321FF40C84250cC1f1b
